@@ -1,7 +1,8 @@
 <div align="center">
 
   <!-- แบนเนอร์ GIF ด้านบนสุด -->
-  <img width="800" alt="ASURA Banner" src="https://github.com/user-attachments/assets/40ee6f8c-0afe-43b5-8b2c-0c7db1dc75ee" />
+  <img width="800" alt="ASURA Banner" src="https://github.com/user-attachments/assets/31f72c92-3e65-4ca4-8684-832061f804ef" />
+
   <br /><br />
 
   <!-- หัวข้อแบบพิมพ์ดีดเคลื่อนไหว (Typing SVG) -->
@@ -25,7 +26,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Who is Asura?
 
@@ -35,7 +36,7 @@
 - 🌱 **Currently Leveling Up:** Go Microservices, Flutter/Dart, and keeping my Docker containers alive
 - ⚡ **Fun Fact:** My debugging process consists of 10% reading logs, 20% drinking coffee, and 70% explaining the bug to my cat 🐈
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 ### 🛠️ Tech Arsenal
 
@@ -57,7 +58,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 ### 🏆 Featured Shipments
 | Project | What it does | Powered By |
@@ -67,7 +68,7 @@
 | **[Smart-Door-Lock-AIoT](https://github.com/CMEBOOST/Smart-Door-Lock-AIoT)** | Smart access control prototype with ultrasonic sensing & web API | `Raspberry Pi` `Arduino` `FastAPI` `Python` |
 | **[TeamGoMicoService](https://github.com/CMEBOOST/TeamGoMicoService)** | Multi-service backend architecture with API Gateway & JWT auth | `Go (Gin)` `Kong` `PostgreSQL` `Docker` |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 ### 📊 GitHub Telemetry
 
@@ -85,4 +86,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:0284c7,100:38bdf8&height=100&section=footer" width="100%" />
   <sub>Made with ☕, late-night commits, and zero sleep.</sub>
-</div><img width="640" height="360" alt="picture" src="https://github.com/user-attachments/assets/0d951f15-77e7-4fa4-b2b8-1672d502d65f" />
+</div>
